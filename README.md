@@ -118,3 +118,15 @@ http://localhost:8080
 ## 📢 Note
 
 This project is developed for learning and demonstration purposes.
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](Dashboard.png)
+
+### ➕ Add Employee
+![Add Employee](Add_Employee.png)
+
+### 📊 Employee Dashboard
+![Employee Dashboard](Add_Employee_Dashboard.png)
+
